@@ -79,7 +79,7 @@ I enjoy building reproducible, modular and clinically-oriented AI solutions that
 
 - Git
 - Linux
-- Docker *(currently learning)*
+- Docker
 
 ---
 
